@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/plugtree",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plug URLs and tree query parts with stable normalization.",
+  "bin": {
+    "plugtree": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/plugtree.git"
+  },
+  "homepage": "https://theworker02.github.io/plugtree/",
+  "keywords": [
+    "plug",
+    "tree",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
